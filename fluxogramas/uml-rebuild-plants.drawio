@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T22:12:19.408Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OiouIYfIhThsUNHpSqHg" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T22:19:14.267Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="V051zUJ9qfY3hGNB_Py6" version="14.6.6" type="github">
   <diagram id="nVmPYJr3QLgJTxrrLP3R" name="Page-1">
-    <mxGraphModel dx="1422" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,19 +14,19 @@
           <mxGeometry x="50" y="350" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-1" value="Login do usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-2" value="Cadastro do usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="335" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-3" value="Cadastro de informações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-4" value="Cadastro de feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-6" value="Visualizar informações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KN0pyL3NHNJ8BKubWvCq-7" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="455" width="60" height="110" as="geometry" />
