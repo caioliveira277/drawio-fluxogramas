@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T23:28:49.589Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iag40Z63FLym3G9ecLso" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-18T00:12:08.179Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="LswOIMM76waGWGZGh3zP" version="14.6.13" type="github" pages="4">
   <diagram id="pLzuvUASEuhN7bm8HHqp" name="Page-1">
     <mxGraphModel dx="1422" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LdQrsJbj6Fkn0gz22ITv" name="Page-4">
-    <mxGraphModel dx="474" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aWKv9Cj-WpSxMXXdIOlC-0" />
         <mxCell id="aWKv9Cj-WpSxMXXdIOlC-1" parent="aWKv9Cj-WpSxMXXdIOlC-0" />
@@ -381,11 +381,20 @@
             <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3SGyF5syV5uLa0U6XZ2-3" value="&lt;span style=&quot;font-size: 8px&quot;&gt;2. Digita os dados&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aWKv9Cj-WpSxMXXdIOlC-1">
-          <mxGeometry x="195" y="290" width="80" height="20" as="geometry" />
+        <mxCell id="d3SGyF5syV5uLa0U6XZ2-3" value="&lt;span style=&quot;font-size: 8px&quot;&gt;2. Informa os seus dados&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aWKv9Cj-WpSxMXXdIOlC-1">
+          <mxGeometry x="180" y="290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d3SGyF5syV5uLa0U6XZ2-4" value="" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="aWKv9Cj-WpSxMXXdIOlC-1">
           <mxGeometry x="310" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SGyF5syV5uLa0U6XZ2-5" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aWKv9Cj-WpSxMXXdIOlC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="510.0000000000001" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SGyF5syV5uLa0U6XZ2-6" value="&lt;span style=&quot;font-size: 8px&quot;&gt;3. Valida os dados&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aWKv9Cj-WpSxMXXdIOlC-1">
+          <mxGeometry x="385" y="310" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
