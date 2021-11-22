@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T20:23:41.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.3.5" etag="mtOP4qXsHUqofOdWuIsk" type="github"><diagram id="9qEGbad7l97ktrlNfDMw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T20:30:21.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="jaq8SJNLqvBM4aCzFBU2" version="15.3.5" type="github">
+  <diagram id="9qEGbad7l97ktrlNfDMw" name="Page-1">
+    <mxGraphModel dx="1178" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Llf1M_T53LXTJHKO9B76-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;hachureGap=4;sketchStyle=rough;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="340" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-1" value="index" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;sketch=1;glass=0;shadow=0;fixDash=0;sketchStyle=rough;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-2" value="Vehicle repository" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;sketch=1;glass=0;shadow=0;fixDash=0;sketchStyle=rough;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-3" value="Order repository" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;sketch=1;glass=0;shadow=0;fixDash=0;sketchStyle=rough;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-5" value="Repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;hachureGap=4;sketchStyle=rough;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="340" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-7" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-8" value="Vehicle page" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;sketch=1;glass=0;shadow=0;fixDash=0;sketchStyle=rough;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Llf1M_T53LXTJHKO9B76-9" value="Order page" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;sketch=1;glass=0;shadow=0;fixDash=0;sketchStyle=rough;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
